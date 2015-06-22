@@ -3,7 +3,7 @@ These are my implementations of the tutorials at [LearnOpenGL](http://learnopeng
 
 
 ## template
-Simple template with shader class for simple shader creation.
+Simple template with shader class for simple shader instantiation.
 ## get context
 Simple triangles with multiple fragment shaders
 ## transform
